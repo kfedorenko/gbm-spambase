@@ -1,3 +1,4 @@
+pip install scipy
 pip install sklearn
 pip install numpy
 pip install pandas
